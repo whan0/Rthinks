@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Rethink-x/","tags":["gardenEntry"],"noteIcon":"3","created":"2023-10-04T01:09:14.395+08:00","updated":"2023-10-04T01:09:51.759+08:00"}
+{"dg-publish":true,"permalink":"/Rethink-x/","tags":["gardenEntry"],"noteIcon":"3","created":"2023-10-04T01:09:14.395+08:00","updated":"2023-10-06T18:19:08.115+08:00"}
 ---
 
 这是一个主页，暂时没想好写什么。
+
+## 文章集合
+[[供应链管理-上课笔记/供应链管理\|供应链管理]]
+[[实战供应链-读书笔记/实战供应链\|实战供应链]]
+[[]]
